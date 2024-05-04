@@ -1,6 +1,6 @@
 # Google Developers Group - Análise de Tweets com o Gemini
 
-Este repositório contém os Notebooks usados no encontro do Google Developers Group Vassouras/Três Rios no dia 04 de Maio de 2024. Neste encontro, trabalhamos com a [API do Gemini](https://ai.google.dev/gemini-api/docs/get-started/python) para realizar uma Análise de Sentimentos sobre um conjunto de tweets. Na pasta 'Tweets' foram disponibilizados dois conjuntos de dados testados para que seja um pontapé inicial.
+Este repositório contém os Notebooks usados no encontro do Google Developers Group Vassouras/Três Rios no dia 04 de Maio de 2024. Neste encontro, trabalhamos com a [API do Gemini](https://ai.google.dev/gemini-api/docs/get-started/python) para realizar uma Análise de Sentimentos sobre um conjunto de tweets. Na pasta 'Tweets' foi disponibilizado um conjunto de dados testados para que seja um pontapé inicial. O contextxo foi a vitória de um time grande contra um time de menor expressão, após a goleada sofrida no jogo anterior para um rival.
 
 # Requisitos
 
